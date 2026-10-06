@@ -22,13 +22,18 @@ ScioHarness 是 ScholarFlow 的独立 App 形态：
 | 项 | 状态 |
 |---|---|
 | 名字 | ✅ 已确定：scioharness |
-| 仓库 | ✅ 已占位（本仓库） |
-| 组织名 · 域名 · npm · PyPI | ⬜ 未占位；调研时 `scioharness.com` / `.ai` 均未注册 |
+| 组织 | ✅ [github.com/scioharness](https://github.com/scioharness) |
+| 仓库 | ✅ 已占位（本仓库 + 组织首页 [scioharness/.github](https://github.com/scioharness/.github)） |
+| npm | ✅ [scioharness@0.0.1](https://www.npmjs.com/package/scioharness)（名字预留包，无实现） |
+| PyPI | ⬜ 未占用 |
+| 域名 `scioharness.com` / `.ai` | ⬜ 未注册 |
 | 代码 | ⬜ 未开始 |
 
 ## TODO
 
 - [ ] 明确独立 App 与 DSH 插件的能力边界
 - [ ] 技术选型与系统架构
+- [ ] 决定本仓库是否转入 `scioharness` 组织
 - [ ] 注册 scioharness.com / scioharness.ai
+- [ ] 占 PyPI 包名
 - [ ] 选择 License（当前未授权任何复用）
